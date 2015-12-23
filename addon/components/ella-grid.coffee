@@ -25,9 +25,9 @@ EllaGridComponent = Ember.Component.extend EllaListableMixin,
   columnWidth: 220
 
   ###
-    Specify the width of each listing.
+    Specify the height of each listing.
 
-    @property columnWidth
+    @property rowHeight
     @type Integer
     @default 100
   ###
